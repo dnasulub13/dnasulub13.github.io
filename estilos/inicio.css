@@ -1,0 +1,56 @@
+html{
+    background-color: azure;
+}
+#imagen1{
+    display: inline-block;
+    float: left;
+    width: 15%;
+    border: ridge;
+    margin: 20px;
+    padding: 10px;
+}
+#titulo1{
+    display: inline-block;
+    float:inherit;
+    width: 74%;
+    border: double;
+    text-align: center;
+    margin: 30px;
+    color:cadetblue;
+}
+#titulo2{
+   text-align: center;
+    float: inherit;
+    width: 74%;
+    display: inline-block;
+    margin: 30px;
+    color:cadetblue;
+}
+#titulo3{
+    text-align: center;
+    border: double;
+    width: 73%;
+    float: inherit;
+    display: inline-block;
+    margin: 30px;
+    color:pink;
+    
+}
+#texto1{
+    text-align: center;
+    width: 73%;
+    float: inherit;
+    display: inline-block;
+    color: crimson;
+}
+#texto2{
+    text-align: center;
+    width: 73%;
+    float: inherit;
+    display: inline-block;
+    color: black;
+}
+#img1{
+    text-align: center;
+    margin-left: 90px;
+}

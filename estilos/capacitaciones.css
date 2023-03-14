@@ -1,0 +1,27 @@
+html{
+    background-color: azure
+}
+#titulo1{
+     font-family: Garamond;
+     font-size: 500%;
+    text-align: center;
+    color:cadetblue;
+}
+.borde{
+    border:6px solid #f0ddb5;
+    display: inline-block;
+    width: 40%;
+}
+html{
+    text-align:left;
+}
+.texto{
+    text-align: justify;
+    font-family: 'Lora', serif;
+    font-size: 1.30em;
+    padding: 3px 10px;
+    border: #efaaa3 8px solid;
+    border-radius: 20px;
+    display: inline-block;
+    width: 55%;
+}

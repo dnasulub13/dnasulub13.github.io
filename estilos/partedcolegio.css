@@ -1,0 +1,8 @@
+#imges{
+    column-count: 2;
+}
+#titulo1{
+    display: inline-block;
+    font-family: inherit;
+    color: cornflowerblue;
+}

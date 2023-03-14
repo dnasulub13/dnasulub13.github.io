@@ -1,0 +1,16 @@
+html{
+    text-align: center;
+    background-color: azure
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+}
+h1{
+
+    color:pink;
+}
+h2{
+    color:cadetblue;
+}

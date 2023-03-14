@@ -1,0 +1,38 @@
+html{
+    text-align: center;
+    background-color: azure
+}
+.class{
+    text-align: justify;
+}
+.texto{
+    text-align: justify;
+    font-family:sans-serif;
+    font-size: 1.30em;
+    padding: 3px 10px;
+    border: #0DABDE 5px solid;
+    border-radius: 20px;
+    display: inline-block;
+    width: 60%;
+}
+.titulo2{
+    clear: both;
+    display: inline-block;
+    font-family: Garamond;
+    font-size: 200%;
+}
+#imagen{
+    display: inline-block;
+    float: none;
+    font-size: 25px;
+    font-family: cursive;
+    border: 5px dotted green;
+
+}
+#titulo1{
+     font-family: Garamond;
+     font-size: 300%;
+    text-align: center;
+    color:cadetblue;
+    
+}
